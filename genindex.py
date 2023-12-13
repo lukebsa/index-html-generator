@@ -733,9 +733,10 @@ def process_dir(top_dir, opts):
 </defs>
 </svg>
 <header>
-    <h1>Kiondaga Lodge &ndash;"""
+    <h1>Kiondaga Lodge &ndash; """
                      f'{path_top_dir.name}'
                      """</h1>
+                     <h2>Visit our website at <a href="https://kiondaga.org/">kiondaga.org</a>.</h2>
                  </header>
                  <main>
                  <div class="listing">
