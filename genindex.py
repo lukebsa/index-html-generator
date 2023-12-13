@@ -733,7 +733,7 @@ def process_dir(top_dir, opts):
 </defs>
 </svg>
 <header>
-    <h1>"""
+    <h1>Kiondaga Lodge &ndash;"""
                      f'{path_top_dir.name}'
                      """</h1>
                  </header>
